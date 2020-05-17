@@ -1,4 +1,3 @@
-*.out
 
 
 # Ignore all
@@ -9,3 +8,5 @@
 
 # Unignore all dirs
 !*/
+
+*.out
